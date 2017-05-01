@@ -1,0 +1,9 @@
+Libraries required
+- sklearm
+- matplot
+- Keras with tensorflow backend
+- pandas
+- other common libraries in python
+
+The data used for this project can be downloaded here - https://drive.google.com/open?id=0B0GzzwKOLF-oT3MzMl9mREdCY2c
+Please put create and put it in "datasets" directory. A top level directory with this README file
